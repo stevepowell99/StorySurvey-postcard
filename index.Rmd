@@ -1,0 +1,35 @@
+---
+title: "StorySurvey"
+image: "StorySurvey2.png"
+links:
+  - label: StorySurvey beta app
+    url: "https://causalmap.shinyapps.io/StorySurvey2/"
+  - label: Causal Map
+    url: "http://causalmap.app"
+  - label: Email
+    url: "mailto:hello@causalmap.app"
+output:
+  postcards::trestles
+---
+ 
+## What is it
+
+[StorySurvey](https://causalmap.shinyapps.io/StorySurvey2/) is a simple text-based web app for gathering causal stories (“what led to / might lead to / could have led to / what”): a qualitative survey tool. It is suitable for use on internet-connected phones and tablets by individuals or groups. 
+
+
+StorySurvey is designed to be:
+
+- Quick and easy to set up
+- Quick and easy to answer
+- Quick and easy to analyse
+
+
+## Why StorySurvey
+
+- Build a collective theory of change for an evaluation
+- Explore future scenarios
+- Social research
+
+## Who?
+
+StorySurvey is provided by [Causal Map Ltd](http://causalmap.app).

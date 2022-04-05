@@ -1,0 +1,8 @@
+2022-04-05 08:54:46: Turning Off Save Deleted/Replaced Files to Recycle Bin, as one of file systems does not support MoveFile
+2022-04-05 08:54:46: -- Analysis Started by User Command
+2022-04-05 08:54:46: L: State file does not exist: C:/Users/steve/Dropbox/Projects/StorySurvey-postcard/_gsdata_/_file_state_v4._gs
+2022-04-05 08:54:47: R: State file does not exist: s3s://s3.amazonaws.com/guide2.causalmap.app/_gsdata_/_file_state_v4._gs
+2022-04-05 08:54:48: R: On disk s3s://s3.amazonaws.com space required for sync is -29.10 MB, free space is unknown
+2022-04-05 08:54:48: Changes: 572, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 573
+2022-04-05 08:54:48: Left to Right: Copy File: 59 Delete File: 513 
+2022-04-05 08:54:48: -- Analysis Complete. Time 00:00:03, Speed: 191 files/s
