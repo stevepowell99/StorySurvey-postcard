@@ -12,7 +12,7 @@ output:
   postcards::trestles
 ---
  
-## What is it
+## What?
 
 [StorySurvey](https://causalmap.shinyapps.io/StorySurvey2/) is a simple text-based web app for gathering causal stories (“what led to / might lead to / could have led to / what”): a qualitative survey tool. It is suitable for use on internet-connected phones and tablets by individuals or groups. 
 
@@ -24,7 +24,7 @@ StorySurvey is designed to be:
 - Quick and easy to analyse
 
 
-## Why StorySurvey
+## Why?
 
 - Build a collective theory of change for an evaluation
 - Explore future scenarios
