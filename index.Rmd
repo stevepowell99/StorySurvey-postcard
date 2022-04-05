@@ -28,7 +28,7 @@ StorySurvey is designed to be:
 
 - Build a collective theory of change for an evaluation
 - Explore future scenarios
-- Social research
+- Social research...
 
 ## Who?
 
