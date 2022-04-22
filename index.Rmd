@@ -1,6 +1,6 @@
 ---
 title: "StorySurvey"
-image: "StorySurvey2.png"
+image: "abcd.svg"
 links:
   - label: StorySurvey beta app
     url: "https://causalmap.shinyapps.io/StorySurvey2/"
@@ -24,7 +24,7 @@ StorySurvey is designed to be:
 - Quick and easy to analyse
 
 
-## Why?
+## Why? 
 
 - Build a collective theory of change for an evaluation
 - Explore future scenarios
