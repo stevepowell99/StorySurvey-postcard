@@ -24,6 +24,8 @@ The StorySurvey algorithm will intelligently probe for more reasons behind each 
 
 Many people can fill in the same survey. The app combines the information into a single map which helps visualise common patterns. 
 
+StorySurvey will be publicly available very soon. [Write to us](mailto:hello@causalmap.app) if you are interested or want to know more.
+
 ----
 
 StorySurvey is provided by [Causal Map Ltd](http://causalmap.app).
