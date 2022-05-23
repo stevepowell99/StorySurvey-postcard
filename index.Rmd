@@ -10,7 +10,6 @@ output:
   postcards::trestles
 ---
 
-## What?
 
 **StorySurvey** is like SurveyMonkey for stories. 
 
@@ -19,7 +18,9 @@ Send a link to a question which prompts people to make connections, e.g.
 - What were the key factors which led to Russia’s attack on Ukraine?
 - What do you think makes for safer streets?
 
-The StorySurvey algorithm asks people for reasons and then asks what is behind each reason. The app combines the information from different respondents into an overview map which helps visualise people’s explanations: where they agree, and where they disagree.
+The StorySurvey algorithm asks people for reasons and then asks what is behind each reason. 
+
+The app combines the information from different respondents into an overview map so that survey administrators can get a visual overview of respondents’ explanations: where they agree, and where they disagree.
 
 Small surveys are free! 
 
