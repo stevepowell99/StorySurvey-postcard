@@ -2,6 +2,8 @@
 title: "StorySurvey"
 image: "abcd.svg"
 links:
+  - label: More info
+    url: "https://causalmap.app/wp-content/uploads/2022/05/Story-Survey-two-pager.pdf"
   - label: Causal Map
     url: "http://causalmap.app"
   - label: Email
