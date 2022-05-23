@@ -20,7 +20,8 @@ Send a link to a question which prompts people to make connections, e.g.
 
 The StorySurvey algorithm asks people for reasons and then asks what is behind each reason. 
 
-The app combines the information from different respondents into an overview map so that survey administrators can get a visual overview of respondents’ explanations: where they agree, and where they disagree.
+The app combines the information from different respondents into an overview map. 
+Survey administrators can then get a visual overview of respondents’ explanations: where they agree, and where they disagree.
 
 Small surveys are free! 
 
