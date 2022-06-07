@@ -14,17 +14,17 @@ output:
 
 # StorySurvey
 
-**StorySurvey** is like SurveyMonkey for stories. 
+**StorySurvey** is like SurveyMonkey for stories. You design a survey, and people fill it in online.
 
-Send a link to a question which prompts people to make connections, e.g.
+In your survey you ask people questions which prompt them to make connections and give reasons, e.g.
 
 - What were the key factors which led to Russia’s attack on Ukraine?
 - What do you think makes for safer streets?
 
-The StorySurvey algorithm asks people for reasons and then asks what is behind each reason. 
+The StorySurvey algorithm then asks *the reason behind each reason*. 
 
-The app combines the information from different respondents into an overview map. 
-Survey administrators can then get a visual overview of respondents’ explanations: where they agree, and where they disagree.
+Then the app combines the information from different respondents into an overview map. 
+Survey administrators can get a visual overview of respondents’ explanations: where they agree, and where they disagree.
 
 Small surveys are free! 
 
