@@ -12,9 +12,9 @@ output:
   postcards::trestles
 ---
 
-# 🦉 OwlQuestion
+# 🦉OwlQuestion
 
-**OwlQuestion** is like SurveyMonkey for stories. You design a survey, and people fill it in online.
+**OwlQuestion** (formerly StorySurvey) is like SurveyMonkey for stories. You design a survey, and people fill it in online.
 
 In your survey you ask people questions which prompt them to make connections and give reasons, e.g.
 
