@@ -1,5 +1,5 @@
 ---
-title: "OwlQuestion"
+title: "StorySurvey"
 image: "abcd.svg"
 links:
   - label: More info
@@ -12,24 +12,24 @@ output:
   postcards::trestles
 ---
 
-# 🦉OwlQuestion
+# 🦉StorySurvey
 
-**OwlQuestion** (formerly StorySurvey) is like SurveyMonkey for stories. You design a survey, and people fill it in online.
+**StorySurvey** is like SurveyMonkey for stories. You design a survey, and people fill it in online.
 
 In your survey you ask people questions which prompt them to make connections and give reasons, e.g.
 
 - What were the key factors which led to Russia’s attack on Ukraine?
 - What do you think makes for safer streets?
 
-The OwlQuestion algorithm then asks *the reason behind each reason*. 
+The StorySurvey algorithm then asks *the reason behind each reason*. 
 
 Then the app combines the information from different respondents into an overview map. 
 Survey administrators can get a visual overview of respondents’ explanations: where they agree, and where they disagree.
 
 Small surveys are free! 
 
-OwlQuestion will be publicly available very soon. [Write to us](mailto:hello@causalmap.app) if you are interested or want to know more.
+StorySurvey will be publicly available very soon. [Write to us](mailto:hello@causalmap.app) if you are interested or want to know more.
 
 ----
 
-🦉 OwlQuestion is provided by [Causal Map Ltd](http://causalmap.app).
+🦉 StorySurvey is provided by [Causal Map Ltd](http://causalmap.app).
