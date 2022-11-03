@@ -26,9 +26,9 @@ The StorySurvey algorithm then asks *the reason behind each reason*.
 Then the app combines the information from different respondents into an overview map. 
 Survey administrators can get a visual overview of respondents’ explanations: where they agree, and where they disagree.
 
-Small surveys are free! 
+Small surveys are free! StorySurvey is online-only, so respondents need an internet connection.
 
-StorySurvey will be publicly available very soon. [Write to us](mailto:hello@causalmap.app) if you are interested or want to know more.
+StorySurvey will be publicly available very soon. [Write to us](mailto:hello@causalmap.app) if you are interested or want to know more, or [join the waiting list](https://forms.wix.com/f/6992844431304950386).
 
 ----
 
