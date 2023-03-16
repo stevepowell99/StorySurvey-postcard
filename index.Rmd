@@ -30,6 +30,8 @@ Small surveys are free! StorySurvey is online-only, so respondents need an inter
 
 StorySurvey will be publicly available very soon. [Write to us](mailto:hello@causalmap.app) if you are interested or want to know more, or [join the waiting list](https://forms.wix.com/f/6992844431304950386).
 
+And here's the [new AI-powered version](https://causalmap.shinyapps.io/StorySurvey3/).
+
 ----
 
 🦉 StorySurvey is provided by [Causal Map Ltd](http://causalmap.app).
