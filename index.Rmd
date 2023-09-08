@@ -3,7 +3,7 @@ title: "StorySurvey"
 image: "abcd.svg"
 links:
   - label: More info
-    url: "https://drive.google.com/file/d/1ipxfjPy6ftH6IrhtiOohvMx6pAcDMhZt/view?usp=sharing"
+    url: "https://docs.google.com/document/d/1Ga18NiAmsSTAw5iG2R39_WRwjiGIlaLiS6mfqfYJOHM/edit"
   - label: Causal Map
     url: "http://causalmap.app"
   - label: Email
@@ -14,23 +14,27 @@ output:
 
 # 🦉StorySurvey
 
-**StorySurvey** is like SurveyMonkey for stories. You design a survey, and people fill it in online.
+Like SurveyMonkey, for stories. 
 
-In your survey you ask people questions which prompt them to make connections and give reasons, e.g.
+Go beyond questionnaires and “free text” answers. Find out what people are really thinking, in their own words:
 
-- What were the key factors which led to Russia’s attack on Ukraine?
-- What do you think makes for safer streets?
+- What worked and why?
+- What didn’t work, and why?
+- What new issues are emerging?
 
-The StorySurvey algorithm then asks *the reason behind each reason*. 
+1️⃣Design and test your StorySurvey interview online. It’s quick and easy.
 
-Then the app combines the information from different respondents into an overview map. 
-Survey administrators can get a visual overview of respondents’ explanations: where they agree, and where they disagree.
+2️⃣Send your respondents a link to the interview.
 
-Small surveys are free! StorySurvey is online-only, so respondents need an internet connection.
+3️⃣Your respondents click on the link. Our friendly AI-interviewer guides them through the whole interview.
+
+4️⃣Download the completed interview transcripts which you can analyse yourself or using our suggested AI qualitative analysis tools.
 
 StorySurvey will be publicly available very soon. [Write to us](mailto:hello@causalmap.app) if you are interested or want to know more, or [join the waiting list](https://forms.wix.com/f/6992844431304950386).
 
-And here's the [new AI-powered version](https://causalmap.shinyapps.io/StorySurvey3/).
+*Qualitative research just got easier.*
+
+
 
 ----
 
